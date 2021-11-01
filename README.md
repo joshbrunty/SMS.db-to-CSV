@@ -1,2 +1,2 @@
-# SMS to CSV Parser
-Converts the iOS SMS.db to CSV output
+# SMS to CSV Parser (SMStoCSV.py)
+Creates a CSV output of the iOS SMS.db (text/iMessage database). 
